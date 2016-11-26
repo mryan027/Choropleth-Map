@@ -1,0 +1,2962 @@
+[
+  {
+    "GEOGID": "M1000F",
+    "Name": "Pearse Street",
+    "value": 542.11
+  },
+  {
+    "GEOGID": "M1070G",
+    "Name": "Kevin Street",
+    "value": 109.28
+  },
+  {
+    "GEOGID": "M1071E",
+    "Name": "Kilmainham",
+    "value": 121.85
+  },
+  {
+    "GEOGID": "M1200K",
+    "Name": "Donnybrook",
+    "value": 57.53
+  },
+  {
+    "GEOGID": "M1201G",
+    "Name": "Irishtown",
+    "value": 62.74
+  },
+  {
+    "GEOGID": "M1300E",
+    "Name": "Crumlin",
+    "value": 65.45
+  },
+  {
+    "GEOGID": "M1301C",
+    "Name": "Sundrive Road",
+    "value": 59.96
+  },
+  {
+    "GEOGID": "M1370F",
+    "Name": "Rathfarnham",
+    "value": 36.08
+  },
+  {
+    "GEOGID": "M1372B",
+    "Name": "Tallaght",
+    "value": 70.16
+  },
+  {
+    "GEOGID": "M1470B",
+    "Name": "Rathmines",
+    "value": 77.75
+  },
+  {
+    "GEOGID": "M1471M",
+    "Name": "Terenure",
+    "value": 45.65
+  },
+  {
+    "GEOGID": "M1500H",
+    "Name": "Santry",
+    "value": 67.39
+  },
+  {
+    "GEOGID": "M1502D",
+    "Name": "Ballymun",
+    "value": 91.4
+  },
+  {
+    "GEOGID": "M1503B",
+    "Name": "Dublin Airport",
+    "value": 837.84
+  },
+  {
+    "GEOGID": "M1530L",
+    "Name": "Coolock",
+    "value": 62.57
+  },
+  {
+    "GEOGID": "M1531H",
+    "Name": "Malahide",
+    "value": 40.57
+  },
+  {
+    "GEOGID": "M1532F",
+    "Name": "Swords",
+    "value": 54.98
+  },
+  {
+    "GEOGID": "M1570K",
+    "Name": "Raheny",
+    "value": 44.82
+  },
+  {
+    "GEOGID": "M1571G",
+    "Name": "Clontarf",
+    "value": 52.84
+  },
+  {
+    "GEOGID": "M1572E",
+    "Name": "Howth",
+    "value": 43.42
+  },
+  {
+    "GEOGID": "M1700M",
+    "Name": "Blanchardstown",
+    "value": 64.57
+  },
+  {
+    "GEOGID": "M1701K",
+    "Name": "Cabra",
+    "value": 70.57
+  },
+  {
+    "GEOGID": "M1702G",
+    "Name": "Finglas",
+    "value": 80.38
+  },
+  {
+    "GEOGID": "M1710H",
+    "Name": "Lucan",
+    "value": 50.88
+  },
+  {
+    "GEOGID": "M1711F",
+    "Name": "Leixlip",
+    "value": 40.56
+  },
+  {
+    "GEOGID": "M1712C",
+    "Name": "Ronanstown",
+    "value": 87.05
+  },
+  {
+    "GEOGID": "M1720E",
+    "Name": "Ballyfermot",
+    "value": 82.82
+  },
+  {
+    "GEOGID": "M1721C",
+    "Name": "Clondalkin",
+    "value": 83.82
+  },
+  {
+    "GEOGID": "M1723L",
+    "Name": "Rathcoole",
+    "value": 53.15
+  },
+  {
+    "GEOGID": "M1800G",
+    "Name": "Store Street",
+    "value": 400.22
+  },
+  {
+    "GEOGID": "M1830K",
+    "Name": "Fitzgibbon Street",
+    "value": 137.21
+  },
+  {
+    "GEOGID": "M1831G",
+    "Name": "Mountjoy",
+    "value": 114.8
+  },
+  {
+    "GEOGID": "M1870H",
+    "Name": "Bridewell, Dublin",
+    "value": 267.2
+  },
+  {
+    "GEOGID": "M1900C",
+    "Name": "Dun Laoghaire",
+    "value": 78.8
+  },
+  {
+    "GEOGID": "M1903H",
+    "Name": "Cabinteely",
+    "value": 33.64
+  },
+  {
+    "GEOGID": "M1930E",
+    "Name": "Bray",
+    "value": 94.25
+  },
+  {
+    "GEOGID": "M1931C",
+    "Name": "Enniskerry",
+    "value": 58.19
+  },
+  {
+    "GEOGID": "M1932A",
+    "Name": "Shankill",
+    "value": 51.38
+  },
+  {
+    "GEOGID": "M1933L",
+    "Name": "Greystones",
+    "value": 39.05
+  },
+  {
+    "GEOGID": "M1970D",
+    "Name": "Blackrock, Co. Dublin",
+    "value": 45.88
+  },
+  {
+    "GEOGID": "M1971B",
+    "Name": "Dundrum",
+    "value": 47.87
+  },
+  {
+    "GEOGID": "M2000A",
+    "Name": "Drogheda",
+    "value": 59.3
+  },
+  {
+    "GEOGID": "M2002H",
+    "Name": "Castlebellinham",
+    "value": 39.84
+  },
+  {
+    "GEOGID": "M2004D",
+    "Name": "Clogherhead",
+    "value": 28.65
+  },
+  {
+    "GEOGID": "M2005B",
+    "Name": "Dunleer",
+    "value": 37
+  },
+  {
+    "GEOGID": "M2006M",
+    "Name": "Laytown",
+    "value": 41.52
+  },
+  {
+    "GEOGID": "M2040M",
+    "Name": "Ashbourne",
+    "value": 40.07
+  },
+  {
+    "GEOGID": "M2041K",
+    "Name": "Dunboyne",
+    "value": 42.34
+  },
+  {
+    "GEOGID": "M2042G",
+    "Name": "Dunshaughlin",
+    "value": 41.62
+  },
+  {
+    "GEOGID": "M2043E",
+    "Name": "Kilcock",
+    "value": 47.47
+  },
+  {
+    "GEOGID": "M2070B",
+    "Name": "Dundalk",
+    "value": 95.84
+  },
+  {
+    "GEOGID": "M2071M",
+    "Name": "Carlingford",
+    "value": 33.55
+  },
+  {
+    "GEOGID": "M2072K",
+    "Name": "Hackballscross",
+    "value": 24.82
+  },
+  {
+    "GEOGID": "M2073G",
+    "Name": "Drumad",
+    "value": 39.61
+  },
+  {
+    "GEOGID": "M2074E",
+    "Name": "Omeath",
+    "value": 67.81
+  },
+  {
+    "GEOGID": "M2075C",
+    "Name": "Louth",
+    "value": 19.2
+  },
+  {
+    "GEOGID": "M2076A",
+    "Name": "Blackrock, Co. Louth",
+    "value": 22.08
+  },
+  {
+    "GEOGID": "M2100H",
+    "Name": "Kells",
+    "value": 41.48
+  },
+  {
+    "GEOGID": "M2102D",
+    "Name": "Athboy",
+    "value": 35.7
+  },
+  {
+    "GEOGID": "M2104M",
+    "Name": "Oldcastle",
+    "value": 40.64
+  },
+  {
+    "GEOGID": "M2106G",
+    "Name": "Nobber",
+    "value": 27.24
+  },
+  {
+    "GEOGID": "M2170K",
+    "Name": "Trim",
+    "value": 40.95
+  },
+  {
+    "GEOGID": "M2175L",
+    "Name": "Longwood [SS]",
+    "value": 24.84
+  },
+  {
+    "GEOGID": "M2177F",
+    "Name": "Summerhill",
+    "value": 26.39
+  },
+  {
+    "GEOGID": "M2178D",
+    "Name": "Enfield",
+    "value": 30.49
+  },
+  {
+    "GEOGID": "M2179B",
+    "Name": "Ballivor",
+    "value": 21.36
+  },
+  {
+    "GEOGID": "M2200D",
+    "Name": "Balbriggan",
+    "value": 64.14
+  },
+  {
+    "GEOGID": "M2201B",
+    "Name": "Skerries",
+    "value": 35.93
+  },
+  {
+    "GEOGID": "M2202M",
+    "Name": "Lusk",
+    "value": 40.7
+  },
+  {
+    "GEOGID": "M2204G",
+    "Name": "Garristown",
+    "value": 28.76
+  },
+  {
+    "GEOGID": "M2270E",
+    "Name": "Navan",
+    "value": 41.91
+  },
+  {
+    "GEOGID": "M2271C",
+    "Name": "Ardee",
+    "value": 46.29
+  },
+  {
+    "GEOGID": "M2272A",
+    "Name": "Collon",
+    "value": 25.36
+  },
+  {
+    "GEOGID": "M2273L",
+    "Name": "Duleek",
+    "value": 41.33
+  },
+  {
+    "GEOGID": "M2274H",
+    "Name": "Slane",
+    "value": 27.77
+  },
+  {
+    "GEOGID": "M2300M",
+    "Name": "Mullingar",
+    "value": 70.65
+  },
+  {
+    "GEOGID": "M2301K",
+    "Name": "Killucan",
+    "value": 18.66
+  },
+  {
+    "GEOGID": "M2302G",
+    "Name": "Kinnegad",
+    "value": 47.8
+  },
+  {
+    "GEOGID": "M2303E",
+    "Name": "Rochfortbridge",
+    "value": 21.54
+  },
+  {
+    "GEOGID": "M2305A",
+    "Name": "Delvin",
+    "value": 30.67
+  },
+  {
+    "GEOGID": "M2370A",
+    "Name": "Athlone",
+    "value": 72.97
+  },
+  {
+    "GEOGID": "M2372H",
+    "Name": "Ballymore",
+    "value": 13.72
+  },
+  {
+    "GEOGID": "M2373F",
+    "Name": "Glassan",
+    "value": 18.34
+  },
+  {
+    "GEOGID": "M2374D",
+    "Name": "Kilbeggan",
+    "value": 29.25
+  },
+  {
+    "GEOGID": "M2375B",
+    "Name": "Moate",
+    "value": 19.19
+  },
+  {
+    "GEOGID": "M2376M",
+    "Name": "Ballymahon",
+    "value": 51.86
+  },
+  {
+    "GEOGID": "M2400G",
+    "Name": "Longford",
+    "value": 73.27
+  },
+  {
+    "GEOGID": "M2401E",
+    "Name": "Drumlish",
+    "value": 21.38
+  },
+  {
+    "GEOGID": "M2402C",
+    "Name": "Keenagh",
+    "value": 22.54
+  },
+  {
+    "GEOGID": "M2405H",
+    "Name": "Lanesboro",
+    "value": 34.73
+  },
+  {
+    "GEOGID": "M2470H",
+    "Name": "Granard",
+    "value": 28.85
+  },
+  {
+    "GEOGID": "M2472D",
+    "Name": "Edgeworthstown",
+    "value": 47.97
+  },
+  {
+    "GEOGID": "M2473B",
+    "Name": "Smear",
+    "value": 19.47
+  },
+  {
+    "GEOGID": "M2474M",
+    "Name": "Ballynacargy",
+    "value": 26.84
+  },
+  {
+    "GEOGID": "M2475K",
+    "Name": "Castlepollard",
+    "value": 27.88
+  },
+  {
+    "GEOGID": "M2476G",
+    "Name": "Multyfarnham",
+    "value": 26.34
+  },
+  {
+    "GEOGID": "M2500C",
+    "Name": "Portlaoise",
+    "value": 60.63
+  },
+  {
+    "GEOGID": "M2501A",
+    "Name": "Mountmellick",
+    "value": 35.61
+  },
+  {
+    "GEOGID": "M2502L",
+    "Name": "Mountrath",
+    "value": 27.88
+  },
+  {
+    "GEOGID": "M2503H",
+    "Name": "Portarlington",
+    "value": 41.25
+  },
+  {
+    "GEOGID": "M2504F",
+    "Name": "Stradbally",
+    "value": 79.44
+  },
+  {
+    "GEOGID": "M2505D",
+    "Name": "Clonaslee",
+    "value": 20.79
+  },
+  {
+    "GEOGID": "M2570D",
+    "Name": "Abbeyleix",
+    "value": 30.63
+  },
+  {
+    "GEOGID": "M2572M",
+    "Name": "Durrow",
+    "value": 27.1
+  },
+  {
+    "GEOGID": "M2573K",
+    "Name": "Rathdowney",
+    "value": 39.08
+  },
+  {
+    "GEOGID": "M2574G",
+    "Name": "Ballylynan",
+    "value": 31.59
+  },
+  {
+    "GEOGID": "M2575E",
+    "Name": "Arles",
+    "value": 25.34
+  },
+  {
+    "GEOGID": "M2577A",
+    "Name": "Borris-In-Ossery",
+    "value": 21.22
+  },
+  {
+    "GEOGID": "M2600L",
+    "Name": "Birr",
+    "value": 51.07
+  },
+  {
+    "GEOGID": "M2601H",
+    "Name": "Banagher",
+    "value": 31.31
+  },
+  {
+    "GEOGID": "M2602F",
+    "Name": "Cloghan",
+    "value": 33.33
+  },
+  {
+    "GEOGID": "M2603D",
+    "Name": "Ferbane",
+    "value": 21.73
+  },
+  {
+    "GEOGID": "M2604B",
+    "Name": "Kilcormac",
+    "value": 30.75
+  },
+  {
+    "GEOGID": "M2605M",
+    "Name": "Kinnity",
+    "value": 13.03
+  },
+  {
+    "GEOGID": "M2606K",
+    "Name": "Shinrone",
+    "value": 16.39
+  },
+  {
+    "GEOGID": "M2608E",
+    "Name": "Lorrha",
+    "value": 13.34
+  },
+  {
+    "GEOGID": "M2670M",
+    "Name": "Tullamore",
+    "value": 57.64
+  },
+  {
+    "GEOGID": "M2671K",
+    "Name": "Clara",
+    "value": 25.66
+  },
+  {
+    "GEOGID": "M2672G",
+    "Name": "Clonbologue",
+    "value": 25.44
+  },
+  {
+    "GEOGID": "M2673E",
+    "Name": "Daingean",
+    "value": 23.45
+  },
+  {
+    "GEOGID": "M2674C",
+    "Name": "Edenderry",
+    "value": 55.3
+  },
+  {
+    "GEOGID": "M2675A",
+    "Name": "Rhode",
+    "value": 22.07
+  },
+  {
+    "GEOGID": "M2700F",
+    "Name": "Naas",
+    "value": 61.63
+  },
+  {
+    "GEOGID": "M2701D",
+    "Name": "Celbridge",
+    "value": 41.9
+  },
+  {
+    "GEOGID": "M2702B",
+    "Name": "Clane",
+    "value": 35.09
+  },
+  {
+    "GEOGID": "M2704K",
+    "Name": "Maynooth",
+    "value": 69.24
+  },
+  {
+    "GEOGID": "M2770G",
+    "Name": "Kildare",
+    "value": 46.72
+  },
+  {
+    "GEOGID": "M2771E",
+    "Name": "Robertstown",
+    "value": 30.41
+  },
+  {
+    "GEOGID": "M2772C",
+    "Name": "Killcullen",
+    "value": 23.96
+  },
+  {
+    "GEOGID": "M2773A",
+    "Name": "Monasterevin",
+    "value": 31.4
+  },
+  {
+    "GEOGID": "M2774L",
+    "Name": "Newbridge",
+    "value": 47.87
+  },
+  {
+    "GEOGID": "M2775H",
+    "Name": "Rathangan",
+    "value": 47.79
+  },
+  {
+    "GEOGID": "M2777D",
+    "Name": "Carbury",
+    "value": 34.01
+  },
+  {
+    "GEOGID": "M2800B",
+    "Name": "Carlow",
+    "value": 86.85
+  },
+  {
+    "GEOGID": "M2803G",
+    "Name": "Ballon",
+    "value": 21.6
+  },
+  {
+    "GEOGID": "M2804E",
+    "Name": "Myshall [SS]",
+    "value": 18.73
+  },
+  {
+    "GEOGID": "M2805C",
+    "Name": "Muine Bheag",
+    "value": 48.96
+  },
+  {
+    "GEOGID": "M2806A",
+    "Name": "Athy",
+    "value": 56.77
+  },
+  {
+    "GEOGID": "M2807L",
+    "Name": "Castledermot",
+    "value": 32.17
+  },
+  {
+    "GEOGID": "M2900K",
+    "Name": "Baltinglass",
+    "value": 46.02
+  },
+  {
+    "GEOGID": "M2901G",
+    "Name": "Blessington",
+    "value": 47.31
+  },
+  {
+    "GEOGID": "M2902E",
+    "Name": "Dunlavin",
+    "value": 35.45
+  },
+  {
+    "GEOGID": "M2905L",
+    "Name": "Shilleagh",
+    "value": 37.29
+  },
+  {
+    "GEOGID": "M2906H",
+    "Name": "Tinahely",
+    "value": 31.57
+  },
+  {
+    "GEOGID": "M2907F",
+    "Name": "Hacketstown",
+    "value": 30.37
+  },
+  {
+    "GEOGID": "M2908D",
+    "Name": "Rathvilly",
+    "value": 19.5
+  },
+  {
+    "GEOGID": "M2910F",
+    "Name": "Tullow",
+    "value": 43.62
+  },
+  {
+    "GEOGID": "M3000G",
+    "Name": "Wexford",
+    "value": 73.32
+  },
+  {
+    "GEOGID": "M3001E",
+    "Name": "Taghmon",
+    "value": 45.73
+  },
+  {
+    "GEOGID": "M3003A",
+    "Name": "Castlebridge [SS]",
+    "value": 38.83
+  },
+  {
+    "GEOGID": "M3004L",
+    "Name": "Kilmore Quay",
+    "value": 30.63
+  },
+  {
+    "GEOGID": "M3005H",
+    "Name": "Glynn",
+    "value": 19.1
+  },
+  {
+    "GEOGID": "M3006F",
+    "Name": "Rosslare Strand",
+    "value": 31.72
+  },
+  {
+    "GEOGID": "M3007D",
+    "Name": "Rosslare Harbour",
+    "value": 37.03
+  },
+  {
+    "GEOGID": "M3070H",
+    "Name": "Gorey",
+    "value": 40.33
+  },
+  {
+    "GEOGID": "M3071F",
+    "Name": "Bunclody",
+    "value": 42.58
+  },
+  {
+    "GEOGID": "M3072D",
+    "Name": "Courtown Harbour",
+    "value": 34.35
+  },
+  {
+    "GEOGID": "M3073B",
+    "Name": "Arklow",
+    "value": 68.09
+  },
+  {
+    "GEOGID": "M3074M",
+    "Name": "Carnew",
+    "value": 46.24
+  },
+  {
+    "GEOGID": "M3100C",
+    "Name": "Enniscorthy",
+    "value": 59.72
+  },
+  {
+    "GEOGID": "M3101A",
+    "Name": "Blackwater",
+    "value": 32.02
+  },
+  {
+    "GEOGID": "M3102L",
+    "Name": "Ferns",
+    "value": 31.23
+  },
+  {
+    "GEOGID": "M3104F",
+    "Name": "Oylegate",
+    "value": 15.92
+  },
+  {
+    "GEOGID": "M3105D",
+    "Name": "Oulart",
+    "value": 31.93
+  },
+  {
+    "GEOGID": "M3106B",
+    "Name": "Clonroche",
+    "value": 15.09
+  },
+  {
+    "GEOGID": "M3170D",
+    "Name": "New Ross",
+    "value": 59.91
+  },
+  {
+    "GEOGID": "M3171B",
+    "Name": "Ballycullane",
+    "value": 27.76
+  },
+  {
+    "GEOGID": "M3172M",
+    "Name": "Carrick-on-Bannow",
+    "value": 40.49
+  },
+  {
+    "GEOGID": "M3173K",
+    "Name": "Duncannon",
+    "value": 57.95
+  },
+  {
+    "GEOGID": "M3175E",
+    "Name": "Carrickbyrne",
+    "value": 42.82
+  },
+  {
+    "GEOGID": "M3176C",
+    "Name": "Campile",
+    "value": 20.09
+  },
+  {
+    "GEOGID": "M3200L",
+    "Name": "Wicklow",
+    "value": 63.81
+  },
+  {
+    "GEOGID": "M3201H",
+    "Name": "Ashford",
+    "value": 56.79
+  },
+  {
+    "GEOGID": "M3202F",
+    "Name": "Rathdrum",
+    "value": 47.72
+  },
+  {
+    "GEOGID": "M3203D",
+    "Name": "Newtownmountkennedy",
+    "value": 37.21
+  },
+  {
+    "GEOGID": "M3205M",
+    "Name": "Avoca",
+    "value": 20.32
+  },
+  {
+    "GEOGID": "M3206K",
+    "Name": "Roundwood",
+    "value": 60.5
+  },
+  {
+    "GEOGID": "M3207G",
+    "Name": "Aughrim",
+    "value": 28.41
+  },
+  {
+    "GEOGID": "M3300F",
+    "Name": "Waterford",
+    "value": 102.88
+  },
+  {
+    "GEOGID": "M3301D",
+    "Name": "Dunmore East",
+    "value": 45.49
+  },
+  {
+    "GEOGID": "M3302B",
+    "Name": "Ferrybank",
+    "value": 43.79
+  },
+  {
+    "GEOGID": "M3303M",
+    "Name": "Passage East",
+    "value": 17.56
+  },
+  {
+    "GEOGID": "M3304K",
+    "Name": "Mooncoin",
+    "value": 37.85
+  },
+  {
+    "GEOGID": "M3305G",
+    "Name": "Glenmore",
+    "value": 12.45
+  },
+  {
+    "GEOGID": "M3306E",
+    "Name": "Kilmacow",
+    "value": 19.6
+  },
+  {
+    "GEOGID": "M3370G",
+    "Name": "Dungarvan",
+    "value": 62.03
+  },
+  {
+    "GEOGID": "M3371E",
+    "Name": "Cappoquin",
+    "value": 39.22
+  },
+  {
+    "GEOGID": "M3372C",
+    "Name": "Tallow",
+    "value": 26.01
+  },
+  {
+    "GEOGID": "M3374L",
+    "Name": "Ballymacarberry",
+    "value": 25.21
+  },
+  {
+    "GEOGID": "M3375H",
+    "Name": "Aglish",
+    "value": 17.83
+  },
+  {
+    "GEOGID": "M3376F",
+    "Name": "Ring",
+    "value": 12.07
+  },
+  {
+    "GEOGID": "M3377D",
+    "Name": "Lismore",
+    "value": 15.63
+  },
+  {
+    "GEOGID": "M3400B",
+    "Name": "Tramore",
+    "value": 44.03
+  },
+  {
+    "GEOGID": "M3401M",
+    "Name": "Kill",
+    "value": 29.81
+  },
+  {
+    "GEOGID": "M3402K",
+    "Name": "Kilmacthomas",
+    "value": 37.62
+  },
+  {
+    "GEOGID": "M3403G",
+    "Name": "Kilmeaden",
+    "value": 19.01
+  },
+  {
+    "GEOGID": "M3404E",
+    "Name": "Portlaw",
+    "value": 34.91
+  },
+  {
+    "GEOGID": "M3405C",
+    "Name": "Rathgormack",
+    "value": 25.19
+  },
+  {
+    "GEOGID": "M3406A",
+    "Name": "Leamybrien",
+    "value": 29.15
+  },
+  {
+    "GEOGID": "M3500K",
+    "Name": "Kilkenny",
+    "value": 93.75
+  },
+  {
+    "GEOGID": "M3501G",
+    "Name": "Freshford",
+    "value": 14.03
+  },
+  {
+    "GEOGID": "M3502E",
+    "Name": "Callan",
+    "value": 25.28
+  },
+  {
+    "GEOGID": "M3503C",
+    "Name": "Castlecomer",
+    "value": 29.57
+  },
+  {
+    "GEOGID": "M3504A",
+    "Name": "Goresbridge",
+    "value": 26.67
+  },
+  {
+    "GEOGID": "M3570L",
+    "Name": "Thomastown",
+    "value": 46.38
+  },
+  {
+    "GEOGID": "M3571H",
+    "Name": "Bennetsbridge",
+    "value": 15.36
+  },
+  {
+    "GEOGID": "M3572F",
+    "Name": "Graiguenmanagh",
+    "value": 22.48
+  },
+  {
+    "GEOGID": "M3573D",
+    "Name": "Stoneyford [SS]",
+    "value": 19.95
+  },
+  {
+    "GEOGID": "M3574B",
+    "Name": "Ballyhale",
+    "value": 28.39
+  },
+  {
+    "GEOGID": "M3576K",
+    "Name": "Kilmoganny",
+    "value": 14.65
+  },
+  {
+    "GEOGID": "M3577G",
+    "Name": "Mullinavat",
+    "value": 26.11
+  },
+  {
+    "GEOGID": "M3578E",
+    "Name": "Borris",
+    "value": 30.38
+  },
+  {
+    "GEOGID": "M3600E",
+    "Name": "Thurles",
+    "value": 83.5
+  },
+  {
+    "GEOGID": "M3601C",
+    "Name": "Ballingarry South",
+    "value": 19.61
+  },
+  {
+    "GEOGID": "M3602A",
+    "Name": "Holycross",
+    "value": 21.57
+  },
+  {
+    "GEOGID": "M3603L",
+    "Name": "Killenaule",
+    "value": 25.6
+  },
+  {
+    "GEOGID": "M3606D",
+    "Name": "Urlingford",
+    "value": 36.88
+  },
+  {
+    "GEOGID": "M3607B",
+    "Name": "Littleton",
+    "value": 24.35
+  },
+  {
+    "GEOGID": "M3670F",
+    "Name": "Clonmel",
+    "value": 54.1
+  },
+  {
+    "GEOGID": "M3671D",
+    "Name": "Kilsheelan",
+    "value": 15.17
+  },
+  {
+    "GEOGID": "M3672B",
+    "Name": "Mullinahone",
+    "value": 14.77
+  },
+  {
+    "GEOGID": "M3674K",
+    "Name": "Fethard",
+    "value": 38.18
+  },
+  {
+    "GEOGID": "M3675G",
+    "Name": "Carrick-on-Suir",
+    "value": 62.67
+  },
+  {
+    "GEOGID": "M3676E",
+    "Name": "Pilltown",
+    "value": 16.26
+  },
+  {
+    "GEOGID": "M3700A",
+    "Name": "Caher",
+    "value": 42.14
+  },
+  {
+    "GEOGID": "M3701L",
+    "Name": "Ardfinnan",
+    "value": 17.18
+  },
+  {
+    "GEOGID": "M3702H",
+    "Name": "Ballyporeen",
+    "value": 23.71
+  },
+  {
+    "GEOGID": "M3704D",
+    "Name": "Cashel",
+    "value": 32
+  },
+  {
+    "GEOGID": "M3705B",
+    "Name": "Clogheen",
+    "value": 27.91
+  },
+  {
+    "GEOGID": "M3770B",
+    "Name": "Nenagh",
+    "value": 46.22
+  },
+  {
+    "GEOGID": "M3771M",
+    "Name": "Ballingarry North [SS]",
+    "value": 18.79
+  },
+  {
+    "GEOGID": "M3772K",
+    "Name": "Borrisokane",
+    "value": 18.06
+  },
+  {
+    "GEOGID": "M3773G",
+    "Name": "Cloughjordon",
+    "value": 14.25
+  },
+  {
+    "GEOGID": "M3774E",
+    "Name": "Dolla",
+    "value": 7.74
+  },
+  {
+    "GEOGID": "M3775C",
+    "Name": "Portroe",
+    "value": 8.1
+  },
+  {
+    "GEOGID": "M3776A",
+    "Name": "Toomevara",
+    "value": 15.34
+  },
+  {
+    "GEOGID": "M3800H",
+    "Name": "Templemore",
+    "value": 45.93
+  },
+  {
+    "GEOGID": "M3801F",
+    "Name": "Templetuohy",
+    "value": 13.51
+  },
+  {
+    "GEOGID": "M3802D",
+    "Name": "Roscrea",
+    "value": 37.51
+  },
+  {
+    "GEOGID": "M3803B",
+    "Name": "Moyne",
+    "value": 12.57
+  },
+  {
+    "GEOGID": "M3804M",
+    "Name": "Templederry [SS]",
+    "value": 28.06
+  },
+  {
+    "GEOGID": "M3805K",
+    "Name": "Borrisoleigh",
+    "value": 16.82
+  },
+  {
+    "GEOGID": "M3806G",
+    "Name": "Shevry",
+    "value": 6.88
+  },
+  {
+    "GEOGID": "M3807E",
+    "Name": "Moneygall",
+    "value": 10.53
+  },
+  {
+    "GEOGID": "M3870K",
+    "Name": "Tipperary",
+    "value": 58.98
+  },
+  {
+    "GEOGID": "M3872E",
+    "Name": "Emly [SS]",
+    "value": 18.07
+  },
+  {
+    "GEOGID": "M3873C",
+    "Name": "Golden",
+    "value": 20.34
+  },
+  {
+    "GEOGID": "M3874A",
+    "Name": "Cappawhite",
+    "value": 19.22
+  },
+  {
+    "GEOGID": "M3875L",
+    "Name": "Bansha",
+    "value": 17.85
+  },
+  {
+    "GEOGID": "M3876H",
+    "Name": "Oola",
+    "value": 10.44
+  },
+  {
+    "GEOGID": "M3900D",
+    "Name": "Anglesea Street",
+    "value": 537.83
+  },
+  {
+    "GEOGID": "M3902M",
+    "Name": "Bridewell, Cork",
+    "value": 101.11
+  },
+  {
+    "GEOGID": "M3908L",
+    "Name": "Blackrock, Cork",
+    "value": 44.14
+  },
+  {
+    "GEOGID": "M3930F",
+    "Name": "Togher",
+    "value": 43.41
+  },
+  {
+    "GEOGID": "M3931D",
+    "Name": "Bishopstown",
+    "value": 49.58
+  },
+  {
+    "GEOGID": "M3932B",
+    "Name": "Douglas",
+    "value": 22.79
+  },
+  {
+    "GEOGID": "M3933M",
+    "Name": "Carrigaline",
+    "value": 25.11
+  },
+  {
+    "GEOGID": "M3934K",
+    "Name": "Crosshaven",
+    "value": 27.48
+  },
+  {
+    "GEOGID": "M3935G",
+    "Name": "Passage West",
+    "value": 26.71
+  },
+  {
+    "GEOGID": "M3980B",
+    "Name": "Mayfield",
+    "value": 49.97
+  },
+  {
+    "GEOGID": "M3982K",
+    "Name": "Watercourse Road",
+    "value": 87.84
+  },
+  {
+    "GEOGID": "M4020G",
+    "Name": "Gurranabraher",
+    "value": 79.79
+  },
+  {
+    "GEOGID": "M4021E",
+    "Name": "Blarney",
+    "value": 30.5
+  },
+  {
+    "GEOGID": "M4022C",
+    "Name": "Ballincollig",
+    "value": 28.95
+  },
+  {
+    "GEOGID": "M4070C",
+    "Name": "Cobh",
+    "value": 38.74
+  },
+  {
+    "GEOGID": "M4072L",
+    "Name": "Carrigtwohill",
+    "value": 20.68
+  },
+  {
+    "GEOGID": "M4074F",
+    "Name": "Glanmire",
+    "value": 24.87
+  },
+  {
+    "GEOGID": "M4078K",
+    "Name": "Watergrasshill",
+    "value": 10.87
+  },
+  {
+    "GEOGID": "M4100K",
+    "Name": "Fermoy",
+    "value": 48.89
+  },
+  {
+    "GEOGID": "M4101G",
+    "Name": "Rathcormack",
+    "value": 23.94
+  },
+  {
+    "GEOGID": "M4102E",
+    "Name": "Ballynoe",
+    "value": 13.33
+  },
+  {
+    "GEOGID": "M4103C",
+    "Name": "Kildorrery",
+    "value": 16.77
+  },
+  {
+    "GEOGID": "M4104A",
+    "Name": "Kilworth",
+    "value": 11.54
+  },
+  {
+    "GEOGID": "M4105L",
+    "Name": "Mitchelstown",
+    "value": 36.88
+  },
+  {
+    "GEOGID": "M4106H",
+    "Name": "Castletownroche",
+    "value": 18.3
+  },
+  {
+    "GEOGID": "M4170L",
+    "Name": "Mallow",
+    "value": 47.63
+  },
+  {
+    "GEOGID": "M4171H",
+    "Name": "Buttervant",
+    "value": 29.23
+  },
+  {
+    "GEOGID": "M4172F",
+    "Name": "Charleville",
+    "value": 73.62
+  },
+  {
+    "GEOGID": "M4173D",
+    "Name": "Doneraile",
+    "value": 31.86
+  },
+  {
+    "GEOGID": "M4174B",
+    "Name": "Milford, Co. Cork",
+    "value": 14.96
+  },
+  {
+    "GEOGID": "M4175M",
+    "Name": "Glantane",
+    "value": 11.72
+  },
+  {
+    "GEOGID": "M4176K",
+    "Name": "Liscarroll",
+    "value": 18.37
+  },
+  {
+    "GEOGID": "M4177G",
+    "Name": "Dromcollogher",
+    "value": 16.23
+  },
+  {
+    "GEOGID": "M4200E",
+    "Name": "Midleton",
+    "value": 38.45
+  },
+  {
+    "GEOGID": "M4201C",
+    "Name": "Cloyne",
+    "value": 7.58
+  },
+  {
+    "GEOGID": "M4202A",
+    "Name": "Killeagh",
+    "value": 13.35
+  },
+  {
+    "GEOGID": "M4203L",
+    "Name": "Whitegate",
+    "value": 16.54
+  },
+  {
+    "GEOGID": "M4204H",
+    "Name": "Youghal",
+    "value": 39.19
+  },
+  {
+    "GEOGID": "M4205F",
+    "Name": "Ballycotton",
+    "value": 11.53
+  },
+  {
+    "GEOGID": "M4206D",
+    "Name": "Ardmore",
+    "value": 19.66
+  },
+  {
+    "GEOGID": "M4300A",
+    "Name": "Bandon",
+    "value": 44
+  },
+  {
+    "GEOGID": "M4301L",
+    "Name": "Innishannon",
+    "value": 30.24
+  },
+  {
+    "GEOGID": "M4302H",
+    "Name": "Ballinhassig",
+    "value": 22.93
+  },
+  {
+    "GEOGID": "M4303F",
+    "Name": "Ballineen",
+    "value": 14.56
+  },
+  {
+    "GEOGID": "M4305B",
+    "Name": "Kinsale",
+    "value": 47.24
+  },
+  {
+    "GEOGID": "M4307K",
+    "Name": "Kilbrittain",
+    "value": 16.3
+  },
+  {
+    "GEOGID": "M4308G",
+    "Name": "Timoleague",
+    "value": 17.53
+  },
+  {
+    "GEOGID": "M4370B",
+    "Name": "Bantry",
+    "value": 54.47
+  },
+  {
+    "GEOGID": "M4371M",
+    "Name": "Skull",
+    "value": 18.78
+  },
+  {
+    "GEOGID": "M4372K",
+    "Name": "Kealkil [SS]",
+    "value": 36.35
+  },
+  {
+    "GEOGID": "M4374E",
+    "Name": "Glengarriff",
+    "value": 14.17
+  },
+  {
+    "GEOGID": "M4375C",
+    "Name": "Durrus",
+    "value": 8.46
+  },
+  {
+    "GEOGID": "M4376A",
+    "Name": "Ballydehob",
+    "value": 11.79
+  },
+  {
+    "GEOGID": "M4377L",
+    "Name": "Drimoleague",
+    "value": 8.98
+  },
+  {
+    "GEOGID": "M4378H",
+    "Name": "Castletownbere",
+    "value": 17.69
+  },
+  {
+    "GEOGID": "M4400H",
+    "Name": "Clonakilty",
+    "value": 50.43
+  },
+  {
+    "GEOGID": "M4401F",
+    "Name": "Rosscarberry",
+    "value": 13.31
+  },
+  {
+    "GEOGID": "M4402D",
+    "Name": "Skibbereen",
+    "value": 22.27
+  },
+  {
+    "GEOGID": "M4404M",
+    "Name": "Baltimore [SS]",
+    "value": 17.81
+  },
+  {
+    "GEOGID": "M4405K",
+    "Name": "Dunmanway",
+    "value": 36.19
+  },
+  {
+    "GEOGID": "M4406G",
+    "Name": "Drinagh",
+    "value": 11.96
+  },
+  {
+    "GEOGID": "M4470K",
+    "Name": "Macroom",
+    "value": 35.37
+  },
+  {
+    "GEOGID": "M4471G",
+    "Name": "Stuake",
+    "value": 19.73
+  },
+  {
+    "GEOGID": "M4472E",
+    "Name": "Coachford",
+    "value": 16.87
+  },
+  {
+    "GEOGID": "M4473C",
+    "Name": "Ballingeary",
+    "value": 17.36
+  },
+  {
+    "GEOGID": "M4474A",
+    "Name": "Ballyvourney",
+    "value": 15.24
+  },
+  {
+    "GEOGID": "M4475L",
+    "Name": "Crookstown",
+    "value": 14.66
+  },
+  {
+    "GEOGID": "M4477F",
+    "Name": "Tarelton",
+    "value": 21.83
+  },
+  {
+    "GEOGID": "M4500D",
+    "Name": "Kanturk",
+    "value": 37.7
+  },
+  {
+    "GEOGID": "M4501B",
+    "Name": "Ballydesmond",
+    "value": 14.44
+  },
+  {
+    "GEOGID": "M4502M",
+    "Name": "Boherbue",
+    "value": 20.68
+  },
+  {
+    "GEOGID": "M4504G",
+    "Name": "Newmarket",
+    "value": 26.44
+  },
+  {
+    "GEOGID": "M4505E",
+    "Name": "Millstreet",
+    "value": 28.39
+  },
+  {
+    "GEOGID": "M4507A",
+    "Name": "Rathmore",
+    "value": 17.17
+  },
+  {
+    "GEOGID": "M4600M",
+    "Name": "Tralee",
+    "value": 67.94
+  },
+  {
+    "GEOGID": "M4601K",
+    "Name": "Ardfert",
+    "value": 16.42
+  },
+  {
+    "GEOGID": "M4635C",
+    "Name": "Dingle",
+    "value": 34.04
+  },
+  {
+    "GEOGID": "M4637L",
+    "Name": "Castlegregory",
+    "value": 14.6
+  },
+  {
+    "GEOGID": "M4638H",
+    "Name": "Anascaul [SS]",
+    "value": 6.47
+  },
+  {
+    "GEOGID": "M4639F",
+    "Name": "Ballyferriter [SS]",
+    "value": 7.01
+  },
+  {
+    "GEOGID": "M4650G",
+    "Name": "Caherciveen",
+    "value": 40.04
+  },
+  {
+    "GEOGID": "M4653A",
+    "Name": "Glenbeigh",
+    "value": 13.89
+  },
+  {
+    "GEOGID": "M4654L",
+    "Name": "Portmagee",
+    "value": 8.12
+  },
+  {
+    "GEOGID": "M4655H",
+    "Name": "Killorglin",
+    "value": 18.92
+  },
+  {
+    "GEOGID": "M4656F",
+    "Name": "Waterville",
+    "value": 10.15
+  },
+  {
+    "GEOGID": "M4657D",
+    "Name": "Sneem",
+    "value": 33.16
+  },
+  {
+    "GEOGID": "M4658B",
+    "Name": "Castlemaine",
+    "value": 28.04
+  },
+  {
+    "GEOGID": "M4700G",
+    "Name": "Killarney",
+    "value": 57.18
+  },
+  {
+    "GEOGID": "M4702C",
+    "Name": "Kenmare",
+    "value": 26.56
+  },
+  {
+    "GEOGID": "M4703A",
+    "Name": "Castleisland",
+    "value": 24.53
+  },
+  {
+    "GEOGID": "M4704L",
+    "Name": "Farranfore",
+    "value": 10.38
+  },
+  {
+    "GEOGID": "M4706F",
+    "Name": "Barraduff",
+    "value": 7.85
+  },
+  {
+    "GEOGID": "M4770H",
+    "Name": "Listowel",
+    "value": 58.21
+  },
+  {
+    "GEOGID": "M4771F",
+    "Name": "Ballyheigue",
+    "value": 13.05
+  },
+  {
+    "GEOGID": "M4773B",
+    "Name": "Ballybunnion",
+    "value": 49.33
+  },
+  {
+    "GEOGID": "M4774M",
+    "Name": "Ballyduff",
+    "value": 14.39
+  },
+  {
+    "GEOGID": "M4776G",
+    "Name": "knockgoshel",
+    "value": 19.38
+  },
+  {
+    "GEOGID": "M4777E",
+    "Name": "Lixnaw",
+    "value": 12.76
+  },
+  {
+    "GEOGID": "M4779A",
+    "Name": "Tarbert",
+    "value": 8.25
+  },
+  {
+    "GEOGID": "M4800C",
+    "Name": "Henry Street",
+    "value": 173.26
+  },
+  {
+    "GEOGID": "M4802L",
+    "Name": "Castleconnell",
+    "value": 30.92
+  },
+  {
+    "GEOGID": "M4803H",
+    "Name": "Ardnacrusha",
+    "value": 34.02
+  },
+  {
+    "GEOGID": "M4804F",
+    "Name": "Mayorstone",
+    "value": 86.17
+  },
+  {
+    "GEOGID": "M4870D",
+    "Name": "Roxboro Road",
+    "value": 97.59
+  },
+  {
+    "GEOGID": "M4872M",
+    "Name": "Patrickswell",
+    "value": 29.86
+  },
+  {
+    "GEOGID": "M4876C",
+    "Name": "Ballyneety",
+    "value": 24.18
+  },
+  {
+    "GEOGID": "M4877A",
+    "Name": "Caherconlish",
+    "value": 38.81
+  },
+  {
+    "GEOGID": "M4880A",
+    "Name": "Askeaton",
+    "value": 64.57
+  },
+  {
+    "GEOGID": "M4881L",
+    "Name": "Adare",
+    "value": 19.55
+  },
+  {
+    "GEOGID": "M4882H",
+    "Name": "Pallaskenry",
+    "value": 18.09
+  },
+  {
+    "GEOGID": "M4883F",
+    "Name": "Croom",
+    "value": 26.46
+  },
+  {
+    "GEOGID": "M4884D",
+    "Name": "Foynes",
+    "value": 23.46
+  },
+  {
+    "GEOGID": "M4885B",
+    "Name": "Glin",
+    "value": 11.69
+  },
+  {
+    "GEOGID": "M4887K",
+    "Name": "Rathkeale",
+    "value": 49.98
+  },
+  {
+    "GEOGID": "M4900L",
+    "Name": "Bruff",
+    "value": 36.62
+  },
+  {
+    "GEOGID": "M4902F",
+    "Name": "Ballylanders",
+    "value": 24.89
+  },
+  {
+    "GEOGID": "M4903D",
+    "Name": "Hospital",
+    "value": 29.87
+  },
+  {
+    "GEOGID": "M4905M",
+    "Name": "Bruree",
+    "value": 28.3
+  },
+  {
+    "GEOGID": "M4906K",
+    "Name": "Kilmallock",
+    "value": 39.88
+  },
+  {
+    "GEOGID": "M4907G",
+    "Name": "Pallas Green",
+    "value": 25.77
+  },
+  {
+    "GEOGID": "M4912C",
+    "Name": "Cappamore",
+    "value": 21.05
+  },
+  {
+    "GEOGID": "M4913A",
+    "Name": "Murroe [SS]",
+    "value": 39.02
+  },
+  {
+    "GEOGID": "M4970M",
+    "Name": "Newcastle West",
+    "value": 57.35
+  },
+  {
+    "GEOGID": "M4971K",
+    "Name": "Abbeyfeale",
+    "value": 30.54
+  },
+  {
+    "GEOGID": "M4973E",
+    "Name": "Ballingarry",
+    "value": 32.13
+  },
+  {
+    "GEOGID": "M4977H",
+    "Name": "Athea",
+    "value": 22.12
+  },
+  {
+    "GEOGID": "M5030L",
+    "Name": "Ennis",
+    "value": 57.39
+  },
+  {
+    "GEOGID": "M5031H",
+    "Name": "Crusheen",
+    "value": 11.35
+  },
+  {
+    "GEOGID": "M5032F",
+    "Name": "Lissycasey",
+    "value": 14.66
+  },
+  {
+    "GEOGID": "M5033D",
+    "Name": "Newmarket-on-Fergus",
+    "value": 27.65
+  },
+  {
+    "GEOGID": "M5035M",
+    "Name": "Shannon",
+    "value": 45.52
+  },
+  {
+    "GEOGID": "M5037G",
+    "Name": "Sixmilebridge",
+    "value": 26.49
+  },
+  {
+    "GEOGID": "M5070K",
+    "Name": "Kilrush",
+    "value": 73.8
+  },
+  {
+    "GEOGID": "M5077F",
+    "Name": "Killadysert",
+    "value": 5.97
+  },
+  {
+    "GEOGID": "M5078D",
+    "Name": "Kilkee",
+    "value": 38.22
+  },
+  {
+    "GEOGID": "M5130F",
+    "Name": "Killaloe",
+    "value": 38.34
+  },
+  {
+    "GEOGID": "M5132B",
+    "Name": "Newport, Co.  Tipperary",
+    "value": 16.23
+  },
+  {
+    "GEOGID": "M5133M",
+    "Name": "Scarriff",
+    "value": 28.29
+  },
+  {
+    "GEOGID": "M5135G",
+    "Name": "Tulla",
+    "value": 14.62
+  },
+  {
+    "GEOGID": "M5170E",
+    "Name": "Ennistymon",
+    "value": 26.9
+  },
+  {
+    "GEOGID": "M5171C",
+    "Name": "Ballyvaughan",
+    "value": 9.68
+  },
+  {
+    "GEOGID": "M5172A",
+    "Name": "Corofin, Co. Clare",
+    "value": 17.75
+  },
+  {
+    "GEOGID": "M5175F",
+    "Name": "Lisdoonvarna",
+    "value": 17.71
+  },
+  {
+    "GEOGID": "M5176D",
+    "Name": "Miltown Malbay",
+    "value": 29.78
+  },
+  {
+    "GEOGID": "M5240L",
+    "Name": "Galway",
+    "value": 101.74
+  },
+  {
+    "GEOGID": "M5242F",
+    "Name": "Oranmore",
+    "value": 23.29
+  },
+  {
+    "GEOGID": "M5244B",
+    "Name": "Loughgeorge",
+    "value": 17.67
+  },
+  {
+    "GEOGID": "M5245M",
+    "Name": "Headford",
+    "value": 11.77
+  },
+  {
+    "GEOGID": "M5247G",
+    "Name": "Athenry",
+    "value": 23.22
+  },
+  {
+    "GEOGID": "M5248E",
+    "Name": "Monivea",
+    "value": 5.54
+  },
+  {
+    "GEOGID": "M5250G",
+    "Name": "Clifden",
+    "value": 46.26
+  },
+  {
+    "GEOGID": "M5251E",
+    "Name": "Recess [SS]",
+    "value": 23.44
+  },
+  {
+    "GEOGID": "M5252C",
+    "Name": "Letterfrack",
+    "value": 14.38
+  },
+  {
+    "GEOGID": "M5254L",
+    "Name": "Carna",
+    "value": 14.69
+  },
+  {
+    "GEOGID": "M5255H",
+    "Name": "Maum",
+    "value": 22.21
+  },
+  {
+    "GEOGID": "M5256F",
+    "Name": "Roundstone",
+    "value": 21.25
+  },
+  {
+    "GEOGID": "M5300G",
+    "Name": "Loughrea",
+    "value": 62.45
+  },
+  {
+    "GEOGID": "M5303A",
+    "Name": "Killimor",
+    "value": 10.16
+  },
+  {
+    "GEOGID": "M5304L",
+    "Name": "Woodford",
+    "value": 15.34
+  },
+  {
+    "GEOGID": "M5306F",
+    "Name": "Eyrecourt",
+    "value": 16.79
+  },
+  {
+    "GEOGID": "M5307D",
+    "Name": "Portumna",
+    "value": 43.25
+  },
+  {
+    "GEOGID": "M5308B",
+    "Name": "Kilrickle",
+    "value": 7.67
+  },
+  {
+    "GEOGID": "M5350C",
+    "Name": "Oughterard",
+    "value": 11.93
+  },
+  {
+    "GEOGID": "M5351A",
+    "Name": "Moycullen [SS]",
+    "value": 10.02
+  },
+  {
+    "GEOGID": "M5352L",
+    "Name": "Carraroe",
+    "value": 21.96
+  },
+  {
+    "GEOGID": "M5353H",
+    "Name": "Ros Muc",
+    "value": 22.15
+  },
+  {
+    "GEOGID": "M5354F",
+    "Name": "Inverin",
+    "value": 14.36
+  },
+  {
+    "GEOGID": "M5355D",
+    "Name": "Spiddle",
+    "value": 14.7
+  },
+  {
+    "GEOGID": "M5356B",
+    "Name": "Leitir Mor",
+    "value": 5.29
+  },
+  {
+    "GEOGID": "M5357M",
+    "Name": "Salthill",
+    "value": 28.64
+  },
+  {
+    "GEOGID": "M5358K",
+    "Name": "Kilronan",
+    "value": 9.59
+  },
+  {
+    "GEOGID": "M5400C",
+    "Name": "Gort",
+    "value": 40.69
+  },
+  {
+    "GEOGID": "M5401A",
+    "Name": "Ardrahan",
+    "value": 8.39
+  },
+  {
+    "GEOGID": "M5402L",
+    "Name": "Craughwell",
+    "value": 7.73
+  },
+  {
+    "GEOGID": "M5403H",
+    "Name": "Kinvara",
+    "value": 10.26
+  },
+  {
+    "GEOGID": "M5600F",
+    "Name": "Roscommon",
+    "value": 32.03
+  },
+  {
+    "GEOGID": "M5601D",
+    "Name": "Athleague",
+    "value": 10.69
+  },
+  {
+    "GEOGID": "M5603M",
+    "Name": "Strokestown",
+    "value": 25.15
+  },
+  {
+    "GEOGID": "M5605G",
+    "Name": "Creggs",
+    "value": 6.22
+  },
+  {
+    "GEOGID": "M5606E",
+    "Name": "Ballygar",
+    "value": 16.81
+  },
+  {
+    "GEOGID": "M5670G",
+    "Name": "Ballinasloe",
+    "value": 87.97
+  },
+  {
+    "GEOGID": "M5671E",
+    "Name": "Ahascragh",
+    "value": 13.07
+  },
+  {
+    "GEOGID": "M5672C",
+    "Name": "Kilconnell",
+    "value": 10.22
+  },
+  {
+    "GEOGID": "M5673A",
+    "Name": "Kiltormer",
+    "value": 8.5
+  },
+  {
+    "GEOGID": "M5675H",
+    "Name": "Mountbellew",
+    "value": 22.79
+  },
+  {
+    "GEOGID": "M5676F",
+    "Name": "Taghmaconnel [SS]",
+    "value": 8.72
+  },
+  {
+    "GEOGID": "M5677D",
+    "Name": "Clonark",
+    "value": 7
+  },
+  {
+    "GEOGID": "M5678B",
+    "Name": "Moylough",
+    "value": 9.41
+  },
+  {
+    "GEOGID": "M5700B",
+    "Name": "Boyle",
+    "value": 28.17
+  },
+  {
+    "GEOGID": "M5703G",
+    "Name": "Elphin",
+    "value": 10.33
+  },
+  {
+    "GEOGID": "M5704E",
+    "Name": "Frenchpark",
+    "value": 26.35
+  },
+  {
+    "GEOGID": "M5705C",
+    "Name": "Keadue",
+    "value": 16.46
+  },
+  {
+    "GEOGID": "M5706A",
+    "Name": "Tulsk",
+    "value": 25.41
+  },
+  {
+    "GEOGID": "M5770C",
+    "Name": "Castlerea",
+    "value": 36.45
+  },
+  {
+    "GEOGID": "M5771A",
+    "Name": "Ballaghaderreen",
+    "value": 41.94
+  },
+  {
+    "GEOGID": "M5772L",
+    "Name": "Ballinlough",
+    "value": 18.03
+  },
+  {
+    "GEOGID": "M5800K",
+    "Name": "Tuam",
+    "value": 36.61
+  },
+  {
+    "GEOGID": "M5801G",
+    "Name": "Williamstown",
+    "value": 27.24
+  },
+  {
+    "GEOGID": "M5802E",
+    "Name": "Milltown",
+    "value": 14.83
+  },
+  {
+    "GEOGID": "M5804A",
+    "Name": "Glenamaddy",
+    "value": 8.69
+  },
+  {
+    "GEOGID": "M5805L",
+    "Name": "Dunmore",
+    "value": 24.07
+  },
+  {
+    "GEOGID": "M5806H",
+    "Name": "Corofin Co. Galway",
+    "value": 8.93
+  },
+  {
+    "GEOGID": "M5807F",
+    "Name": "Barnaderg",
+    "value": 12.6
+  },
+  {
+    "GEOGID": "M5900E",
+    "Name": "Castlebar",
+    "value": 47.27
+  },
+  {
+    "GEOGID": "M5903L",
+    "Name": "Balla",
+    "value": 19.82
+  },
+  {
+    "GEOGID": "M5904H",
+    "Name": "Partry",
+    "value": 10.29
+  },
+  {
+    "GEOGID": "M5970F",
+    "Name": "Ballina",
+    "value": 45.99
+  },
+  {
+    "GEOGID": "M5971D",
+    "Name": "Killala",
+    "value": 11.15
+  },
+  {
+    "GEOGID": "M5973M",
+    "Name": "Bonniconlon",
+    "value": 18.59
+  },
+  {
+    "GEOGID": "M5974K",
+    "Name": "Crossmolina",
+    "value": 12.39
+  },
+  {
+    "GEOGID": "M5976E",
+    "Name": "Enniscrone",
+    "value": 15.74
+  },
+  {
+    "GEOGID": "M6000C",
+    "Name": "Belmullet",
+    "value": 28.44
+  },
+  {
+    "GEOGID": "M6003H",
+    "Name": "Bangor Erris",
+    "value": 13.01
+  },
+  {
+    "GEOGID": "M6004F",
+    "Name": "Ballycroy [SS]",
+    "value": 19.06
+  },
+  {
+    "GEOGID": "M6005D",
+    "Name": "Glenamoy",
+    "value": 39.16
+  },
+  {
+    "GEOGID": "M6070D",
+    "Name": "Claremorris",
+    "value": 41.41
+  },
+  {
+    "GEOGID": "M6071B",
+    "Name": "Kilmaine",
+    "value": 14.8
+  },
+  {
+    "GEOGID": "M6072M",
+    "Name": "Ballindine",
+    "value": 8.94
+  },
+  {
+    "GEOGID": "M6073K",
+    "Name": "Knock",
+    "value": 21.57
+  },
+  {
+    "GEOGID": "M6074G",
+    "Name": "Ballinrobe",
+    "value": 26.73
+  },
+  {
+    "GEOGID": "M6075E",
+    "Name": "Cong",
+    "value": 22.98
+  },
+  {
+    "GEOGID": "M6076C",
+    "Name": "Shrule",
+    "value": 12.6
+  },
+  {
+    "GEOGID": "M6100L",
+    "Name": "Swinford",
+    "value": 42.68
+  },
+  {
+    "GEOGID": "M6101H",
+    "Name": "Kiltamagh",
+    "value": 22.58
+  },
+  {
+    "GEOGID": "M6102F",
+    "Name": "Charlestown",
+    "value": 35.87
+  },
+  {
+    "GEOGID": "M6103D",
+    "Name": "Kilkelly",
+    "value": 20.3
+  },
+  {
+    "GEOGID": "M6104B",
+    "Name": "Ballyhaunis",
+    "value": 22.7
+  },
+  {
+    "GEOGID": "M6105M",
+    "Name": "Foxford",
+    "value": 17.65
+  },
+  {
+    "GEOGID": "M6170M",
+    "Name": "Westport",
+    "value": 53.71
+  },
+  {
+    "GEOGID": "M6171K",
+    "Name": "Newport,  Co. Mayo",
+    "value": 20.57
+  },
+  {
+    "GEOGID": "M6172G",
+    "Name": "Achill Sound",
+    "value": 10.93
+  },
+  {
+    "GEOGID": "M6174C",
+    "Name": "Louisburgh",
+    "value": 11.5
+  },
+  {
+    "GEOGID": "M6175A",
+    "Name": "Keel",
+    "value": 12.35
+  },
+  {
+    "GEOGID": "M6200F",
+    "Name": "Sligo",
+    "value": 72.02
+  },
+  {
+    "GEOGID": "M6201D",
+    "Name": "Collooney",
+    "value": 21.33
+  },
+  {
+    "GEOGID": "M6202B",
+    "Name": "Skreen",
+    "value": 6.51
+  },
+  {
+    "GEOGID": "M6203M",
+    "Name": "Coolaney",
+    "value": 13.46
+  },
+  {
+    "GEOGID": "M6205G",
+    "Name": "Rosses Point",
+    "value": 10.28
+  },
+  {
+    "GEOGID": "M6206E",
+    "Name": "Grange",
+    "value": 17.59
+  },
+  {
+    "GEOGID": "M6270G",
+    "Name": "Ballymote",
+    "value": 39.75
+  },
+  {
+    "GEOGID": "M6271E",
+    "Name": "Tobercurry",
+    "value": 23.62
+  },
+  {
+    "GEOGID": "M6272C",
+    "Name": "Gurteen",
+    "value": 24.46
+  },
+  {
+    "GEOGID": "M6273A",
+    "Name": "Riverstown",
+    "value": 14.1
+  },
+  {
+    "GEOGID": "M6300B",
+    "Name": "Carrick-on-Shannon",
+    "value": 72.41
+  },
+  {
+    "GEOGID": "M6303G",
+    "Name": "Drumshanbo",
+    "value": 20.04
+  },
+  {
+    "GEOGID": "M6305C",
+    "Name": "Mohill",
+    "value": 24.07
+  },
+  {
+    "GEOGID": "M6306A",
+    "Name": "Rooskey",
+    "value": 12.45
+  },
+  {
+    "GEOGID": "M6370C",
+    "Name": "Manorhamilton",
+    "value": 20.43
+  },
+  {
+    "GEOGID": "M6373H",
+    "Name": "Kinlough",
+    "value": 16.36
+  },
+  {
+    "GEOGID": "M6376B",
+    "Name": "Dowra",
+    "value": 36.95
+  },
+  {
+    "GEOGID": "M6377M",
+    "Name": "Blacklion",
+    "value": 105.49
+  },
+  {
+    "GEOGID": "M6400K",
+    "Name": "Letterkenny",
+    "value": 86.29
+  },
+  {
+    "GEOGID": "M6401G",
+    "Name": "Carrigans",
+    "value": 24.82
+  },
+  {
+    "GEOGID": "M6402E",
+    "Name": "Castlefinn",
+    "value": 30.91
+  },
+  {
+    "GEOGID": "M6404A",
+    "Name": "Newtown Cunningham",
+    "value": 38.44
+  },
+  {
+    "GEOGID": "M6405L",
+    "Name": "Raphoe",
+    "value": 25.41
+  },
+  {
+    "GEOGID": "M6406H",
+    "Name": "Lifford",
+    "value": 34.5
+  },
+  {
+    "GEOGID": "M6407F",
+    "Name": "Ballybofey",
+    "value": 43.22
+  },
+  {
+    "GEOGID": "M6408D",
+    "Name": "Convoy",
+    "value": 28.02
+  },
+  {
+    "GEOGID": "M6470L",
+    "Name": "Buncrana",
+    "value": 52.94
+  },
+  {
+    "GEOGID": "M6471H",
+    "Name": "Burnfoot",
+    "value": 39.1
+  },
+  {
+    "GEOGID": "M6472F",
+    "Name": "Carndonagh",
+    "value": 25.79
+  },
+  {
+    "GEOGID": "M6473D",
+    "Name": "Clonmany",
+    "value": 26.54
+  },
+  {
+    "GEOGID": "M6476K",
+    "Name": "Moville",
+    "value": 25.61
+  },
+  {
+    "GEOGID": "M6477G",
+    "Name": "Muff",
+    "value": 22.22
+  },
+  {
+    "GEOGID": "M6540D",
+    "Name": "Milford, Co. Donegal",
+    "value": 33.13
+  },
+  {
+    "GEOGID": "M6541B",
+    "Name": "Carrigart",
+    "value": 30.32
+  },
+  {
+    "GEOGID": "M6542M",
+    "Name": "Carrowkeel",
+    "value": 19.34
+  },
+  {
+    "GEOGID": "M6543K",
+    "Name": "Kilmacrennan",
+    "value": 14.76
+  },
+  {
+    "GEOGID": "M6545E",
+    "Name": "Dunfanaghy",
+    "value": 27.29
+  },
+  {
+    "GEOGID": "M6546C",
+    "Name": "Creeslough [SS]",
+    "value": 20.59
+  },
+  {
+    "GEOGID": "M6547A",
+    "Name": "Falcarragh",
+    "value": 14.21
+  },
+  {
+    "GEOGID": "M6548L",
+    "Name": "Ramelton",
+    "value": 12.97
+  },
+  {
+    "GEOGID": "M6549H",
+    "Name": "Rathmullen [SS]",
+    "value": 20.7
+  },
+  {
+    "GEOGID": "M6550A",
+    "Name": "Glenties",
+    "value": 40.6
+  },
+  {
+    "GEOGID": "M6552H",
+    "Name": "Ardara",
+    "value": 10.11
+  },
+  {
+    "GEOGID": "M6553F",
+    "Name": "Bunbeg",
+    "value": 17.14
+  },
+  {
+    "GEOGID": "M6554D",
+    "Name": "Burtonport",
+    "value": 13.67
+  },
+  {
+    "GEOGID": "M6555B",
+    "Name": "Clogher [SS]",
+    "value": 7.55
+  },
+  {
+    "GEOGID": "M6557K",
+    "Name": "Dungloe",
+    "value": 28.94
+  },
+  {
+    "GEOGID": "M6558G",
+    "Name": "Carrick",
+    "value": 6.39
+  },
+  {
+    "GEOGID": "M6600A",
+    "Name": "Ballyshannon",
+    "value": 67.79
+  },
+  {
+    "GEOGID": "M6601L",
+    "Name": "Ballintra",
+    "value": 20.65
+  },
+  {
+    "GEOGID": "M6602H",
+    "Name": "Bundoran",
+    "value": 95.93
+  },
+  {
+    "GEOGID": "M6603F",
+    "Name": "Donegal",
+    "value": 42.13
+  },
+  {
+    "GEOGID": "M6604D",
+    "Name": "Pettigo",
+    "value": 16.67
+  },
+  {
+    "GEOGID": "M6636B",
+    "Name": "Killybegs",
+    "value": 21.25
+  },
+  {
+    "GEOGID": "M6637M",
+    "Name": "Mountcharles",
+    "value": 15.6
+  },
+  {
+    "GEOGID": "M6700H",
+    "Name": "Monaghan",
+    "value": 67.97
+  },
+  {
+    "GEOGID": "M6701F",
+    "Name": "Clones",
+    "value": 20.72
+  },
+  {
+    "GEOGID": "M6704M",
+    "Name": "Scotstown",
+    "value": 22.12
+  },
+  {
+    "GEOGID": "M6705K",
+    "Name": "Emyvale",
+    "value": 21.72
+  },
+  {
+    "GEOGID": "M6770K",
+    "Name": "Carrickmacross",
+    "value": 44.09
+  },
+  {
+    "GEOGID": "M6771G",
+    "Name": "Ballybay",
+    "value": 42.67
+  },
+  {
+    "GEOGID": "M6772E",
+    "Name": "Castleblaney",
+    "value": 39.39
+  },
+  {
+    "GEOGID": "M6775L",
+    "Name": "Rockcorry [SS]",
+    "value": 18.1
+  },
+  {
+    "GEOGID": "M6800D",
+    "Name": "Cavan",
+    "value": 62.68
+  },
+  {
+    "GEOGID": "M6801B",
+    "Name": "Ballinagh",
+    "value": 27.11
+  },
+  {
+    "GEOGID": "M6802M",
+    "Name": "Arvagh",
+    "value": 26.56
+  },
+  {
+    "GEOGID": "M6805E",
+    "Name": "Kilnaleck",
+    "value": 21.42
+  },
+  {
+    "GEOGID": "M6870E",
+    "Name": "Bailieboro",
+    "value": 34.47
+  },
+  {
+    "GEOGID": "M6871C",
+    "Name": "Kingscourt",
+    "value": 32.41
+  },
+  {
+    "GEOGID": "M6872A",
+    "Name": "Mullagh",
+    "value": 28.94
+  },
+  {
+    "GEOGID": "M6873L",
+    "Name": "Shercock",
+    "value": 42.53
+  },
+  {
+    "GEOGID": "M6875F",
+    "Name": "Virginia",
+    "value": 30.27
+  },
+  {
+    "GEOGID": "M6876D",
+    "Name": "Cootehill",
+    "value": 66.59
+  },
+  {
+    "GEOGID": "M6877B",
+    "Name": "Ballyjamesduff",
+    "value": 31.2
+  },
+  {
+    "GEOGID": "M6900M",
+    "Name": "Ballyconnell",
+    "value": 25.83
+  },
+  {
+    "GEOGID": "M6901K",
+    "Name": "Belturbet",
+    "value": 44.15
+  },
+  {
+    "GEOGID": "M6902G",
+    "Name": "Swanlinbar",
+    "value": 31.87
+  },
+  {
+    "GEOGID": "M6903E",
+    "Name": "Killeshandra",
+    "value": 16.47
+  },
+  {
+    "GEOGID": "M6905A",
+    "Name": "Ballinamore",
+    "value": 24.23
+  },
+  {
+    "GEOGID": "M6906L",
+    "Name": "Carrigallen",
+    "value": 11.12
+  },
+  {
+    "GEOGID": "C02",
+    "Name": "Dublin City",
+    "value": 166.35
+  },
+  {
+    "GEOGID": "C05",
+    "Name": "Dun Laoghaire-Rathdown",
+    "value": 48.53
+  },
+  {
+    "GEOGID": "C03",
+    "Name": "South Dublin",
+    "value": 71.99
+  },
+  {
+    "GEOGID": "C04",
+    "Name": "Fingal",
+    "value": 61.24
+  },
+  {
+    "GEOGID": "C06",
+    "Name": "Kildare",
+    "value": 47.16
+  },
+  {
+    "GEOGID": "C15",
+    "Name": "Wicklow",
+    "value": 59.39
+  },
+  {
+    "GEOGID": "C10",
+    "Name": "Louth",
+    "value": 58.38
+  },
+  {
+    "GEOGID": "C11",
+    "Name": "Meath",
+    "value": 38.77
+  },
+  {
+    "GEOGID": "C13",
+    "Name": "Westmeath",
+    "value": 49.69
+  },
+  {
+    "GEOGID": "C09",
+    "Name": "Longford",
+    "value": 48.85
+  },
+  {
+    "GEOGID": "C08",
+    "Name": "Laois",
+    "value": 43.71
+  },
+  {
+    "GEOGID": "C12",
+    "Name": "Offaly",
+    "value": 41.47
+  },
+  {
+    "GEOGID": "C22",
+    "Name": "Tipperary",
+    "value": 37.8
+  },
+  {
+    "GEOGID": "C01",
+    "Name": "Carlow",
+    "value": 60.71
+  },
+  {
+    "GEOGID": "C14",
+    "Name": "Wexford",
+    "value": 45.59
+  },
+  {
+    "GEOGID": "C24",
+    "Name": "Waterford",
+    "value": 65.54
+  },
+  {
+    "GEOGID": "C07",
+    "Name": "Kilkenny",
+    "value": 48.96
+  },
+  {
+    "GEOGID": "C20",
+    "Name": "Limerick",
+    "value": 72.2
+  },
+  {
+    "GEOGID": "C17",
+    "Name": "Cork",
+    "value": 45.76
+  },
+  {
+    "GEOGID": "C19",
+    "Name": "Kerry",
+    "value": 39.16
+  },
+  {
+    "GEOGID": "C16",
+    "Name": "Clare",
+    "value": 39.18
+  },
+  {
+    "GEOGID": "C26",
+    "Name": "Galway",
+    "value": 38.88
+  },
+  {
+    "GEOGID": "C30",
+    "Name": "Roscommon",
+    "value": 25.12
+  },
+  {
+    "GEOGID": "C29",
+    "Name": "Mayo",
+    "value": 32.03
+  },
+  {
+    "GEOGID": "C31",
+    "Name": "Sligo",
+    "value": 40.59
+  },
+  {
+    "GEOGID": "C28",
+    "Name": "Leitrim",
+    "value": 32.62
+  },
+  {
+    "GEOGID": "C32",
+    "Name": "Cavan",
+    "value": 42.24
+  },
+  {
+    "GEOGID": "C33",
+    "Name": "Donegal",
+    "value": 39.14
+  },
+  {
+    "GEOGID": "C34",
+    "Name": "Monaghan",
+    "value": 43.98
+  }
+]
